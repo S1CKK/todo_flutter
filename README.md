@@ -8,6 +8,7 @@ this is todo app that can
 3. delete task
 4. check task
 
-![Simulator Screen Shot - iPhone 14 Pro - 2023-09-24 at 11 19 36](https://github.com/S1CKK/todo_flutter/assets/71183033/cd95317a-0c31-4749-baef-c5f4a338a62a)
+![image](https://github.com/S1CKK/todo_flutter/assets/71183033/2f48b80c-d41a-4c67-9e52-521426703cd4)
+
 
 
