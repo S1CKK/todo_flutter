@@ -8,6 +8,8 @@ this is todo app that can
 3. delete task
 4. check task
 
+** code in master branch
+
 ![image](https://github.com/S1CKK/todo_flutter/assets/71183033/2f48b80c-d41a-4c67-9e52-521426703cd4)
 
 
