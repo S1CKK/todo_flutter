@@ -48,7 +48,7 @@ class ToDoItem extends StatelessWidget {
           child: IconButton(
             color: white,
             onPressed: () {
-              onDeleteItem(todo.id);
+              onDeleteItem(todo.id);//
             },
             icon: const Icon(Icons.delete),
             iconSize: 18,
